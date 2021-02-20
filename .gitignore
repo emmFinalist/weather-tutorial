@@ -1,2 +1,11 @@
+# Don't check auto-generated stuff into git
+js/coverage
+js/build
+js/node_modules
+js/stats.json
 vendor
-simplehtmldom_2_0-RC2
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
